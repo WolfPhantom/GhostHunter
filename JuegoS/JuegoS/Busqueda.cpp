@@ -1,0 +1,2 @@
+#include "Busqueda.h"
+
